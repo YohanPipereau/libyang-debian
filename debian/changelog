@@ -1,3 +1,9 @@
+libyang (0.16.106-1) unstable; urgency=medium
+
+  * upstream 0.16.105 (0.16-r3) release
+
+ -- Yohan Pipereau <ypiperea@cisco.com>  Thu, 13 Jun 2019 13:01:00 +0100
+
 libyang (0.16.105-1) unstable; urgency=medium
 
   * upstream 0.16.105 (0.16-r3) release
